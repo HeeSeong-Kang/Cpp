@@ -1,10 +1,11 @@
 #include <iostream>
-#include <vector>
 using namespace std;
 
 int main(void)
 {
-    std::cout << "hellowold!" << std::endl;
+    int num = 20;
+    std::cout << num << std::endl;
+    std::cout << "Hello World!" << std::endl;
 
     return 0;
 }
